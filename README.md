@@ -42,10 +42,6 @@ Identified distinct customer segments for personalized marketing and retention s
 
 ## Tech Stack
 Python, Pandas, NumPy, Scikit-Learn, Matplotlib, Seaborn
-
-## Project Structure
-(Insert folder tree)
-
 ## Run Locally
 pip install -r requirements.txt
 python main.py
