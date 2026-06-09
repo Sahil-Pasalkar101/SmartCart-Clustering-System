@@ -112,19 +112,17 @@ Each cluster was analyzed to identify:
 ```text
 smartcart-customer-segmentation/
 │
-├── data/
+├── dataset/
 │   ├── raw/
 │   └── processed/
 │
-├── notebooks/
+├── code/
 │   └── SmartCart_Clustering_System.ipynb
 │
 ├── outputs/
 │   ├── plots/
 │   ├── models/
 │   └── reports/
-│
-├── screenshots/
 │
 ├── requirements.txt
 ├── README.md
