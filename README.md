@@ -179,9 +179,5 @@ jupyter notebook
 
 Sahil Pasalkar
 
-Machine Learning | Data Science | Analytics
-
-LinkedIn: [Your LinkedIn]
-
-GitHub: [Your GitHub]
+Machine Learning | Data Science | GenAI
 
